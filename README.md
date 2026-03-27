@@ -13,7 +13,7 @@ This Power BI dashboard provides an interactive visualization platform to analyz
 
 ## Screenshot
 
-![Electric Vehicle Analysis Dashboard](dashboard.png)
+![Electric Vehicle Analysis Dashboard](dashboard_ss.png)
 
 ## How to Use
 1. Install Power BI Desktop if you haven’t already: [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
